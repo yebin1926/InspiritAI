@@ -9,4 +9,4 @@ Linear Regression: Finding best price of cars using data
 
 Computer Vision: Classifying the presence of a dog on the road when a car is visually monitoring the road
 
-Natural Language Processing:
+Natural Language Processing: Sentiment Classification of Review Comments
