@@ -7,6 +7,6 @@ Logistic Regression: Simple breast cancer biopsy classification
 
 Linear Regression: Finding best price of cars using data
 
-Computer Vision: Classifying the presence of a dog on the road when a car is visually monitoring the road
+Computer Vision: Classifying the presence of a dog on the road for a self-driving car
 
 Natural Language Processing: Sentiment Classification of Review Comments
